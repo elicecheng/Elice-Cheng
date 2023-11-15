@@ -24,7 +24,7 @@ Eagerly pursuing a fulfilling career in the ever-evolving tech industry.
 * [Printf](https://github.com/elicecheng/ft_printf) : Rreate printf function
 * [Get Next Line](https://github.com/elicecheng/get_next_line) : Read line byline
 * [Born2beRoot](https://github.com/elicecheng) : Virtual Machine
-* [Pipex](https://github.com/elicecheng) : Execute pipe commands
+* [Pipex](https://github.com/elicecheng/Pipex) : Execute pipe commands
 
 ### 42 Cursus Phase 2
 * [Push Swap](https://github.com/elicecheng)
