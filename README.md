@@ -21,7 +21,7 @@ Eagerly pursuing a fulfilling career in the ever-evolving tech industry.
 
 ### 42 Cursus Phase 1
 * [Libft](https://github.com/elicecheng/libft) : My C library
-* [Printf](https://github.com/elicecheng) : Rreate printf function
+* [Printf](https://github.com/elicecheng/ft_printf) : Rreate printf function
 * [Get Next Line](https://github.com/elicecheng) : Read line byline
 * [Born2beRoot](https://github.com/elicecheng) : Virtual Machine
 * [Pipex](https://github.com/elicecheng) : Execute pipe commands
