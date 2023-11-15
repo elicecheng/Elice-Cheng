@@ -20,7 +20,7 @@ Eagerly pursuing a fulfilling career in the ever-evolving tech industry.
 * [May 23 Piscine](https://github.com/elicecheng/Piscine-May-2023): Shell & C programming
 
 ### 42 Cursus Phase 1
-* [Libft](https://github.com/elicecheng) : My C library
+* [Libft](https://github.com/elicecheng/libft) : My C library
 * [Printf](https://github.com/elicecheng) : Rreate printf function
 * [Get Next Line](https://github.com/elicecheng) : Read line byline
 * [Born2beRoot](https://github.com/elicecheng) : Virtual Machine
