@@ -27,7 +27,7 @@ Eagerly pursuing a fulfilling career in the ever-evolving tech industry.
 * [Pipex](https://github.com/elicecheng/Pipex) : Execute pipe commands
 
 ### 42 Cursus Phase 2
-* [Push Swap](https://github.com/elicecheng)
+* [Push Swap](https://github.com/elicecheng/push_swap)
 
 
 ## Languages & Tools
